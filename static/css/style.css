@@ -1,6 +1,3 @@
-body{
-    color: lightgray;
-}
-#myBtn{
-    background-image: linear-gradient(red, blue);
+#myBt{
+    border: black solid 1px;
 }
